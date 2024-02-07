@@ -1,6 +1,6 @@
 # AirBnB clone - The console
 
-**Resources**
+**Resources**  
 Read or watch:  
 https://docs.python.org/3.8/library/cmd.html  
 https://pymotw.com/2/cmd/  
